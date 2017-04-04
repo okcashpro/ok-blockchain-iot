@@ -34,4 +34,4 @@ IoT devices:
 
 If you require further assistance or want to keep informed of updates, join:
 
-http://discord.me/cryptocurrency
+https://discord.io/okcash
